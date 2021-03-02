@@ -19,6 +19,3 @@ function button() {
         })
 }
 document.querySelector('.button').onclick = button;
-
-
-123312
